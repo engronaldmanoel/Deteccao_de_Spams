@@ -1,4 +1,4 @@
-# Deteccao_de_Spams
+# Detecção de Spams
 Eis que você está procurando um e-mail especifico onde foi lhe mandado uma senha importante do Banco e você estar a 2 minutos de ser atendido pelo o atendente responsável, no entanto na sua caixa de entrada estar cheia de mensagens de lojas que você nunca ouviu falar, o ultimo e-mail recebido foi de um antivirus perguntando se você quer experimentar um novo plano. Sendo que você nem tem o software no seu computador.
 
 
